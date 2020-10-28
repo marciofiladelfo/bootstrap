@@ -1,5 +1,52 @@
+body {
+  font: 20px Arial, sans-serif;
+}
+
 #logo-global {
-  width: 100px;
+  width: 90%;
   background-color: #f0f8ff38;
   border-radius: 30%;
+}
+
+#time {
+  width: 400px;
+  height: 400px;
+}
+
+h3 {
+  margin-bottom: 30px;
+}
+
+h4 {
+  margin-top: 20px;
+}
+
+.quem-somos {
+  background-color: lightgrey;
+  color: brown;
+}
+
+.parceiros {
+  background-color: darkslategray;
+}
+
+.img-parceiros {
+  width: 100%;
+  align-self: center;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.img-servicos {
+  width: 100%;
+  padding: 5px;
+}
+
+.margin {
+  padding: 50px 0;
+}
+
+.bg-footer {
+  background-color: #343a40;
+  color: aliceblue;
 }
